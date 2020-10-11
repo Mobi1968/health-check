@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def check_disk_full(disk, min_gb,min_percent):
     """Returns True if there isn't enough disk space, False otherwise."""
     du = shutil.disk_usage(disk)
@@ -21,3 +22,6 @@ def main():
     sys.exit(0)
 
 main()
+=======
+# Nieuwe file, op 2 plekken tegelijk aangemaakt
+>>>>>>> 1dcb0e96ada5c8777311af6bc3e9ac57464f1af2
